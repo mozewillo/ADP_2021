@@ -19,6 +19,7 @@ Update the table (today you need to fill at least first two columns)
 | Rymuza Julia | [julia-rymuza](https://github.com/Julia820) | ? | ? |
 | Duda Paulina | [paulina-duda](https://github.com/pd410668) | ? | ? |
 | Ewa Kizling | [ewa-kizling](https://github.com/EwaKiz) | ? | ? |
+| Aleksandra Możwiłło | [aleksandra-mozwillo](https://github.com/mozewillo) | ? | Barbara Jurzysta, Adrianna Bukała, Konrad Łukaszyk|
 
 ### Task 2
 Create the directory for your project with README.md file in <b>'projects'</b> directory where you will describe the subject, 
